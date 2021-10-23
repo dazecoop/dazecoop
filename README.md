@@ -1,7 +1,8 @@
 ## 👋 Hi, I’m @dazecoop
 
-I don't really use GitHub 👀
+I build stuff. Mainly Vue & PHP. Sometimes stuff works.
 
-But [have a few Gists](https://gist.github.com/dazecoop) loafing around.
+Currently VP of Software Engineering @ [AdTech Media Ltd](https://adtechmedia.co.uk).
 
-Might start migrating projects over one day.
+I [have a few Gists](https://gist.github.com/dazecoop) loafing around.
+
