@@ -2,7 +2,7 @@
 
 I build stuff, mainly Vue & PHP. Sometimes stuff works.
 
-Currently VP of Software Engineering @ [Meta8](https://github.com/meta8-uk).
+Currently VP of Software Engineering @ Meta8.
 
 Also freelancer @ [DazeMX](https://dazemx.com/).
 
