@@ -2,7 +2,7 @@
 
 I build stuff, mainly Vue & PHP. Sometimes stuff works.
 
-Currently VP of Software Engineering @ Meta8.
+Currently VP of Software Engineering @ KABRU.
 
 Also freelancer @ [DazeMX](https://dazemx.com/).
 
