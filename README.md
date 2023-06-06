@@ -16,7 +16,7 @@ I [have a few Gists](https://gist.github.com/dazecoop) & [CodePen's](https://cod
       <img src="https://wakatime.com/share/@daze/256da2e4-14ed-49dc-b935-0041ecccf449.png" width="450px" />
     </td>
     <td colspan="2" style="border: none" valign="top">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=dazecoop&hide_border=true" />
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=dazecoop&theme=transparent&hide_border=true" />
     </td>
   </tr>
  </table>
