@@ -2,7 +2,7 @@
 
 I build stuff, mainly Vue & PHP. Sometimes stuff works.
 
-Currently VP of Software Engineering @ [KABRU](https://kabru.com/).
+Currently CTO @ [KABRU](https://kabru.com/).
 
 Also freelancer @ [DazeMX](https://dazemx.com/).
 
