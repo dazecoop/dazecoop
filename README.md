@@ -2,7 +2,7 @@
 
 I build stuff, mainly Vue & PHP. Sometimes stuff works.
 
-Currently CTO @ [KABRU](https://kabru.com/).
+Currently CTO @ [Tech Trove Services](https://techtroveservices.com/).
 
 Also freelancer @ [DazeMX](https://dazemx.com/).
 
